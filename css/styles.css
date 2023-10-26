@@ -11045,3 +11045,8 @@ textarea.form-control-lg {
   height: 256px
 
 }
+
+.payment-guide-container {
+  background-color: lightgrey;
+  text-align: center;
+}
