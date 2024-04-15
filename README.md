@@ -41,7 +41,7 @@
 ![개발비산정](https://github.com/juhyuk24/Kiosk-Braille/assets/102583124/26ac4746-1208-47dd-baa3-418e2445d2ed)
 
 
-## 라이센스
+## Copyright and License
 I am posting this because I used the sbadmin2 theme on startbootstrap.
 
 The MIT License (MIT)
