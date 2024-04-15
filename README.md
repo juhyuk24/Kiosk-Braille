@@ -29,6 +29,7 @@
 ---| ---|
 ![키오스크페이지3](https://github.com/juhyuk24/Kiosk-Braille/assets/102583124/af9fb1f2-3be3-4cb8-b060-d7c7a4e6cdf5) | ![키오스크페이지4](https://github.com/juhyuk24/Kiosk-Braille/assets/102583124/0f853cbc-30c5-4db8-ad67-b18406b2976a)
 
+
 ## ER-Diagram
 ![ERD](https://github.com/juhyuk24/Capstone/assets/102583124/47cabd1a-4bba-48ce-aeba-d439788943db)
 
@@ -36,6 +37,7 @@
 ## 결과
 ![결과물1](https://github.com/juhyuk24/Capstone/assets/102583124/f101c4b8-568a-4bfa-b14f-2dbc14c0b34f) | ![결과물2](https://github.com/juhyuk24/Capstone/assets/102583124/3bd571ba-e02f-490e-8586-3b68085fa38f)
 ---| ---|
+
 
 ## FP 개발비 산정
 ![개발비산정](https://github.com/juhyuk24/Kiosk-Braille/assets/102583124/26ac4746-1208-47dd-baa3-418e2445d2ed)
